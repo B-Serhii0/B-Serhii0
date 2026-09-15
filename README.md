@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Serhii Babych 👋
 
-<!--
-**B-Serhii0/B-Serhii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Chernivtsi National University (group 243-1)
+💻 Currently learning web development and expanding my programming skills
+🌱 Exploring Git, GitHub and modern web technologies
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, C++
+- **Tools:** Git, GitHub, VS Code
+- **Currently learning:** HTML, CSS, and front-end web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm working on
+- Completing labs for the *Web Technologies* course
+- Practicing collaborative workflows with Git (forks, branches, pull requests)
+
+## 📫 How to reach me
+- GitHub: [@B-Serhii0](https://github.com/B-Serhii0)
+
+⭐️ Feel free to check out my repositories and follow my progress!
