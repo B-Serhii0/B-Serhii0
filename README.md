@@ -1,6 +1,6 @@
 # Hi, I'm Serhii Babych 👋
 
-🎓 Computer Science student at Chernivtsi National University (group 243-1)
+🎓 Computer Science student at Chernivtsi National University
 💻 Currently learning web development and expanding my programming skills
 🌱 Exploring Git, GitHub and modern web technologies
 
