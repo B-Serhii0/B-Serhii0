@@ -1,7 +1,9 @@
 # Hi, I'm Serhii Babych 👋
 
 🎓 Computer Science student at Chernivtsi National University
+
 💻 Currently learning web development and expanding my programming skills
+
 🌱 Exploring Git, GitHub and modern web technologies
 
 ## 🛠️ Tech Stack
