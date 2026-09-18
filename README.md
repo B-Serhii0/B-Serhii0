@@ -9,10 +9,10 @@
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, C++
 - **Tools:** Git, GitHub, VS Code
-- **Currently learning:** HTML, CSS, and front-end web development
+- **Currently learning:** HTML, CSS, and front-end web development, SQL, NoSQL
 
 ## 📌 What I'm working on
-- Completing labs for the *Web Technologies* course
+- Completing labs for the *Web Technologies* course, Python labs
 - Practicing collaborative workflows with Git (forks, branches, pull requests)
 
 ## 📫 How to reach me
